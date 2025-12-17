@@ -35,7 +35,7 @@ Công cụ kiểm tra và hiển thị thông tin chi tiết về hệ thống W
 
 ### Tải về / Download
 ```bash
-git clone https://github.com/yourusername/Check_System.git
+git clone https://github.com/HaiDang1304/Check_System.git
 cd Check_System
 ```
 
